@@ -1,8 +1,0 @@
-server:
-  port: 8081
-
-spring:
-  application:
-    name: microservicio-curso
-
-mensaje: "Este es el microservicio de usuario"
