@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: microservicio-producto
+    name: microservicio-estudiante
 
 mensaje: "Este es el microservicio de producto"
